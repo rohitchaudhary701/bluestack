@@ -40,26 +40,6 @@
       "report": "Some report link for Whatsapp",
       "image_url":"Some image url of the campaign" 
     },
-	{
-	"id": 5,
-      "name": "war",
-      "region": "US",
-      "createdOn": 1575143426000,
-      "price": "Price info of Test Whatsapp",
-      "csv": "Some CSV link for Whatsapp",
-      "report": "Some report link for Whatsapp",
-      "image_url":"Some image url of the campaign" 
-    },
-	{
-	"id": 6,
-      "name": "nfs",
-      "region": "US",
-      "createdOn": 1575139826000,
-      "price": "Price info of Test Whatsapp",
-      "csv": "Some CSV link for Whatsapp",
-      "report": "Some report link for Whatsapp",
-      "image_url":"Some image url of the campaign" 
-    },
     {
 	"id": 7,
       "name": "Super Jewels Quest",
@@ -95,6 +75,16 @@
       "name": "Mancala Mix",
       "region": "JP",
       "createdOn": 1575239906000,
+      "price": "Price info of Mancala Mix",
+      "csv": "Some CSV link for Mancala Mix",
+      "report": "Some report link for Mancala Mix",
+      "image_url":"Some image url of the campaign"
+    },
+	   {
+	"id": 11,
+      "name": "Jacob Mix",
+      "region": "JP",
+      "createdOn": 1575138600000,
       "price": "Price info of Mancala Mix",
       "csv": "Some CSV link for Mancala Mix",
       "report": "Some report link for Mancala Mix",
